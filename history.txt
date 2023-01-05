@@ -1,4 +1,4 @@
-$ history
+i$ history
     1  cd
     2  cd /c
     3  ls
@@ -79,4 +79,507 @@ $ history
    78  git log
    79  git log --oneline
    80  history
+
+#####Neeraj History####
+
+9  javac EmpWage_Obj.java
+   10  java EmpWage_Obj
+   11  javac Age.java
+   12  java Age
+   13  nano -T3 Age
+   14  nano -T3 Age.java
+   15  subl
+   16  ls
+   17  cd OneDrive/Desktop/Terminalcmd/
+   18  ls
+   19  subl collab/
+   20  subl day22/
+   21  cd day22/
+   22  ls
+   23  touch PolyArea.java
+   24  javac PolyArea.java
+   25  java PolyArea
+   26  cd OneDrive/Desktop/Terminalcmd/
+   27  ls
+   28  cd codln/
+   29  ls
+   30  cd JAVA_codingClub/
+   31  ls
+   32  clear
+   33  ls
+   34  mkdir day23_collection
+   35  subl day22/
+   36  cd day23_collection/
+   37  touch TestJavaCollecton.java
+   38  subl TestJavaCollecton.java
+   39  mv TestJavaCollecton.java TestJavaCollection.java
+   40  subl TestJavaCollection.java
+   41  java TestJavaCollection
+   42  java
+   43  clear
+   44  nano -T3 Collection_LinkList.java
+   45  cd ..
+   46  cd ..
+   47  ls
+   48  mkdir day21_Assignment
+   49  subl day21_Assignment/
+   50  cd day21_Assignment/
+   51  git init
+   52  subl EmployeeWageBuilder.java
+   53  git add EmployeeWageBuilder.java
+   54  git commit -m "Added : Initail Commit 'Welcome file added' "
+   55  git remote add origin
+   56  git remote add origin https://github.com/neerajnanhewar/EmployeeWage_JAVA-day21-.git
+   57  git push -u origin master
+   58  git checkout -b UC1-Emp_Present
+   59  ls
+   60  git add EmployeeWageBuilder.java
+   61  git commit -m "Added : initial file added"
+   62  git push origin UC1-Emp_Present
+   63  git status
+   64  subl EmployeeWageBuilder.java
+   65  git status
+   66  git add EmployeeWageBuilder.java
+   67  git commit -m "Added : Employee present check method added"
+   68  git push origin UC1-Emp_Present
+   69  git checkout master
+   70  git checkout UC1-Emp_Present
+   71  git checkout master
+   72  clear
+   73  git status
+   74  git merge UC1-Emp_Present
+   75  git status
+   76  git add EmployeeWageBuilder.java
+   77  git commit -m "Added : Employee present check method"
+   78  git push
+   79  git checkout -b UC2-Cal_DailyWage
+   80  git add EmployeeWageBuilder.java
+   81  git add EmployeeWageBuilder.java
+   82  git commit -m "Added : Employee Wage Calculation"
+   83  git push origin UC2-Cal_DailyWage
+   84  git checkout master
+   85  git merge UC2-Cal_DailyWage
+   86  git status
+   87  git puch
+   88  git push
+   89  clear
+   90  git checkout UC3-PartTimeEmp
+   91  git checkout -b UC3-PartTimeEmp
+   92  git add EmployeeWageBuilder.java
+   93  git commit -m "Added : Initial file added "
+   94  git push origin UC3-PartTimeEmp
+   95  git add EmployeeWageBuilder.java
+   96  git commit -m "Added : Part Time Employee Wage"
+   97  git push origin UC3-PartTimeEmp
+   98  git push origin UC3-PartTimeEmp
+   99  git checkout master
+  100  git merge UC3-PartTimeEmp
+  101  git push
+  102  git checkout -b UC4-Switchcase
+  103  git add EmployeeWageBuilder.java
+  104  git commit -m "Added : initial file added"
+  105  git push origin UC4-Switchcase
+  106  git add EmployeeWageBuilder.java
+  107  git commit -m "refactore : switch case added"
+  108  git push origin UC4-Switchcase
+  109  git checkout master
+  110  git merge UC4-Switchcase
+  111  git push
+  112  git checkout -b UC5_WageForMonth
+  113  git add EmployeeWageBuilder.java
+  114  git commit -m "Added: initial file added"
+  115  git push origin UC5_WageForMonth
+  116  subl EmployeeWageBuilder.java
+  117  git add EmployeeWageBuilder.java
+  118  git commit -m "Added: wages for a month"
+  119  git push origin UC5_WageForMonth
+  120  git checkout master
+  121  git merge UC5_WageForMonth
+  122  git add EmployeeWageBuilder.java
+  123  git commit -m "Added : Wages for a month"
+  124  git push
+  125  git pull
+  126  git checkout -b UC6-ConditionWorking_HRs
+  127  git add EmployeeWageBuilder.java
+  128  git commit -m "Added : uc5 file added"
+  129  git push origin UC6-ConditionWorking_HRs
+  130  subl EmployeeWageBuilder.java
+  131  git add EmployeeWageBuilder.java
+  132  git commit -m "Added : Working Hours and Month added "
+  133  git push origin UC6-ConditionWorking_HRs
+  134  git checkout master
+  135  git merge UC6-ConditionWorking_HRs
+  136  git push
+  137  git checkout -b UC7-EMPwageMEthod
+  138  git add EmployeeWageBuilder.java
+  139  git commit -m "Added : UC6 file added"
+  140  git push origin UC7-EMPwageMEthod
+  141  subl EmployeeWageBuilder.java
+  142  git add EmployeeWageBuilder.java
+  143  git commit -m "Refactore : refactore the code for wage calculation."
+  144  git push origin UC7-EMPwageMEthod
+  145  git checkout master
+  146  git merge
+  147  git merge UC7-EMPwageMEthod
+  148  git push
+  149  git status
+  150  git add EmployeeWageBuilder.class
+  151  git commit -m "final class file added"
+  152  git push -u origin master
+  153  git status
+  154  git pull
+  155  cd ..
+  156  ls
+  157  mkdir day22_Assignment
+  158  cd day22_Assignment/
+  159  ls
+  160  clear
+  161  cd ..
+  162  subl day22_Assignment/
+  163  subl day21_Assignment/
+  164  cd day22_Assignment/
+  165  ls
+  166  clear
+  167  history
+  168  clear
+  169  git init
+  170  echo "EmployeeWage Computation program " >> README.md
+  171  ls
+  172  git add README.md
+  173  git commit -m "Added : ReadMe file added"
+  174  git push -u origin master
+  175  git add remote https://github.com/neerajnanhewar/EmpLoyeeWage_Day22.git
+  176  git remote add https://github.com/neerajnanhewar/EmpLoyeeWage_Day22.git
+  177  git remote add https://github.com/neerajnanhewar/EmpLoyeeWage_Day22.git
+  178  git remote add origin https://github.com/neerajnanhewar/EmpLoyeeWage_Day22.git
+  179  git push -u origin master
+  180  subl EmployeeWageBuilder.java
+  181  git add EmployeeWageBuilder.java
+  182  git add EmployeeWageBuilder.class
+  183  git commit -m "Added : Welcome File Added"
+  184  git push
+  185  git checkout -b UC1-EmpPresent
+  186  ls
+  187  git status
+  188  git status
+  189  git add EmployeeWageBuilder.java
+  190  git commit -m "Added : Initial file added"
+  191  git push origin UC1-EmpPresent
+  192  git status
+  193  git add EmployeeWageBuilder.java
+  194  git commit -m "Added : Employee Presentcheck method"
+  195  git push origin UC1-EmpPresent
+  196  git checkout master
+  197  git merge UC1-EmpPresent
+  198  gut push
+  199  git push
+  200  git status
+  201  ls
+  202  rm -r *.class
+  203  ls
+  204  status
+  205  git status
+  206  git push
+  207  la
+  208  ls
+  209  git checkout -b UC2-Emp_wage
+  210  git add EmployeeWageBuilder.java
+  211  git commit -m "Added :EmployeeWagebuilder file added"
+  212  git push origin UC2-Emp_wage
+  213  git status
+  214  git add EmployeeWageBuilder.java
+  215  git commit -m "Added : Employee wage calculation added"
+  216  git push origin UC2-Emp_wage
+  217  git checkout master
+  218  git merge UC2-Emp_wage
+  219  git push
+  220  git checkout -b UC3-partTimeEmp
+  221  git add EmployeeWageBuilder.java
+  222  git commit -m "Initial file added"
+  223  git push origin UC3-partTimeEmp
+  224  git add EmployeeWageBuilder.java
+  225  git commit -m "Added : Part time employee Wage calculation"
+  226  git push origin UC3-partTimeEmp
+  227  git checkout master
+  228  git merge UC3-partTimeEmp
+  229  git push
+  230  git checkout -b UC4-switchcase
+  231  git add EmployeeWageBuilder.java
+  232  git commit -m "Initial file added"
+  233  git push origin UC4-switchcase
+  234  git add EmployeeWageBuilder.java
+  235  git commit -m "Added : switch case added"
+  236  git push origin UC4-switchcase
+  237  git checkout master
+  238  git merge UC4-switchcase
+  239  git push
+  240  git checkout -b UC5-WageForMonth
+  241  git add EmployeeWageBuilder.java
+  242  git commit -m "Added : initail file added"
+  243  git push origin UC5-WageForMonth
+  244  git add EmployeeWageBuilder.java
+  245  git commit -m "Added : Wage compute for a month"
+  246  git push origin UC5-WageForMonth
+  247  git status
+  248  git checkout master
+  249  git merge UC5-WageForMonth
+  250  git push
+  251  git checkout -b UC6-ConditionWorking_HRs
+  252  git add EmployeeWageBuilder.java
+  253  git commit -m "Added :initial file UC5"
+  254  git push origin UC6-ConditionWorking_HRs
+  255  git add EmployeeWageBuilder.java
+  256  git commit -m "Added : Conditional statement added"
+  257  git push origin UC6-ConditionWorking_HRs
+  258  git checkout master
+  259  git merge UC6-ConditionWorkin
+  260  git push
+  261  git checkout -b UC7-Refactore
+  262  git add EmployeeWageBuilder.java
+  263  git commit -m "Added : initial file added"
+  264  git push origin UC7-Refactore
+  265  git add EmployeeWageBuilder.java
+  266  git commit -m "Refactor the code"
+  267  git push origin UC7-Refactore
+  268  git checkout master
+  269  git merge UC7-Refactore
+  270  git push
+  271  git checkout -b UC8-WageForCompany
+  272  git add EmployeeWageBuilder.java
+  273  git commit -m "Added: UC7 file added"
+  274  git push origin UC8-WageForCompany
+  275  ls
+  276  git add EmployeeWageBuilder.java
+  277  git commit -m "Added : initial file added UC7"
+  278  git push origin UC8-WageForCompany
+  279  git add EmployeeWageBuilder.java
+  280  git commit -m "Added : Wage calculation for multiple company"
+  281  git push origin master
+  282  git push origin UC8-WageForCompany
+  283  git checkout master
+  284  git merge UC8-WageForCompany
+  285  git push
+  286  git add .
+  287  git commit -m "final file added"
+  288  git push
+  289  git pull
+  290  git checkout UC2-Cal_DailyWage
+  291  subl EmployeeWageBuilder.java
+  292  git checkout UC3-PartTimeEmp
+  293  git checkout UC4-Switchcase
+  294  git checkout UC5_WageForMonth
+  295  git checkout UC6-ConditionWorking_HRs
+  296  git branch
+  297  git checkout UC7-EMPwageMEthod
+  298  ls
+  299  cd OneDrive/
+  300  cd Desktop
+  301  ls
+  302  cd Terminalcmd/linux-content/
+  303  cat data.csv
+  304  clear
+  305  cat data.csv
+  306  awk '$1%2 {print}'
+  307  awk '$1%2 {print}' data.csv
+  308  awk '$1%3 {print}' data.csv
+  309  awk 'if{$1%2=0} {print}' data.csv
+  310  awk 'if{$1%2=0;} {print}' data.csv
+  311  awk '$1%2==0 {print}' data.csv
+  312  awk '$1 > 4 {print}'
+  313  awk '$1 > 4 {print}' data.csv
+  314  awk '$1 > 4 && $1< 8 {print}' data.csv
+  315  head -4 data.csv
+  316  head -4+ data.csv
+  317  head -9 data.csv
+  318  head -9 | tail -4 data.csv
+  319  head -2 | tail -4 data.csv
+  320  head -9 data.csv | tail -4 data.csv
+  321  javac AddEntry.java AddressBookMain.java AddressBook.java UpdateEntry.java
+  322  java AddressBookMain.java
+  323  javac AddEntry.java
+  324  javac AddressBookMain.java
+  325  java AddressBookMain
+  326  javac AddressBookMain.java
+  327  javac AddressBookMain.java
+  328  javac AddressBook.java
+  329  javac AddressBookMain.java
+  330  git init
+  331  echo "# This has Requirements for an Address Book Management System. The Expectation at this stage is only to design using OOPS concept the Address Book System" >> README.md
+  332  git add README.md
+  333  git commit -m "READ.md File Added"
+  334  git remote add origin https://github.com/neerajnanhewar/AddressBook_Simple.git
+  335  git push -u origin master
+  336  javac AddressBook.java
+  337  javac AddressBook.java
+  338  git add AddressBook.java
+  339  git commit -m "Added : AddressBook "
+  340  git push
+  341  git checkout -b Testingbranch
+  342  git status
+  343  javac AddressBook.java
+  344  git add AddressBook.java
+  345  git commit -m "Added : setterMethod added"
+  346  git push origin Testingbranch
+  347  git checkout master
+  348  git merge Testingbranch
+  349  git push
+  350  git checkout Testingbranch
+  351  git status
+  352  git add AddressBook..java
+  353  git add AddressBook.java
+  354  git commit -m "Added :  getterMethods"
+  355  git push origin Testingbranch
+  356  git checkout master | git merge Testingbranch
+  357  git push
+  358  git merge Testingbranch
+  359  git push
+  360  ls
+  361  mv AddressBook.Main.java AddressBookMain.java
+  362  ls
+  363  subl AddressBookMain.java
+  364  javac AddressBookMain.java
+  365  javac AddressBook.java
+  366  javac AddressBookMain.java
+  367  javac AddressBookMain.java
+  368  git checkout Testingbranch
+  369  git status
+  370  git status
+  371  git add AddEntry.java
+  372  git commit -m "Added : Address book Adding Detail method added "
+  373  git push origin Testingbranch
+  374  ls
+  375  git status
+  376  git add UpdateEntry.java
+  377  git commit -m "Added : Upadate file added"
+  378  git push origin Testingbranch
+  379  git status
+  380  git add AddressBookMain.java
+  381  git commit -m "Added : main file Added"
+  382  git push origin Testingbranch
+  383  git add AddressBook.java
+  384  git commit -m "File updated"
+  385  git status
+  386  git add AddEntry.java
+  387  git commit -m "Added : Data Store file added"
+  388  git push origin Testingbranch
+  389  git checkout master
+  390  git merge Testingbranch
+  391  git push
+  392  git pull
+  393  git checkout Testingbranch
+  394  git status
+  395  git add *.class
+  396  git commit -m "Added class files added"
+  397  git checkout master
+  398  git merge Testingbranch
+  399  git push
+  400  ls -l
+  401  ls
+  402  ls -S
+  403  ls -Sl
+  404  cd OneDrive/
+  405  cd Desktop
+  406  ls
+  407  ls -Sl
+  408  ls
+  409  cd OneDrive/Desktop
+  410  cd test
+  411  ls
+  412  nano new.sh
+  413  nano new.sh
+  414  new.sh
+  415  ./new
+  416  ./new.sh
+  417  nano new.sh
+  418  ./new.sh
+  419  nano new.sh
+  420  ./new.sh
+  421  nano new.sh
+  422  ./new.sh
+  423  nano new.sh
+  424  ./new.sh
+  425  ./new.sh
+  426  nano new.sh
+  427  ./new.sh
+  428  nano new.sh
+  429  ./new.sh
+  430  nano new.sh
+  431  ./new.sh
+  432  nano new.sh
+  433  ./new.sh
+  434  nano new.sh
+  435  nano f.sh
+  436  ./f.sh
+  437  ./f.sh
+  438  ./f.sh
+  439  nano f.sh
+  440  ./f.sh
+  441  ./f.sh
+  442  ./f.sh
+  443  ./f.sh
+  444  ./f.sh
+  445  bash -x ./f.sh
+  446  nano f.sh
+  447  nano f.sh
+  448  bash -x ./f.sh
+  449  bash -x ./f.sh
+  450  nano f.sh
+  451  rm f.sh
+  452  ls
+  453  info man
+  454  info info
+  455  man info
+  456  man man
+  457  wsl
+  458  man
+  459  wsl man
+  460  wsl man man
+  461  apropos
+  462  wsl apropos
+  463  wsl apropos -h
+  464  wsl -h
+  465  wsl --help
+  466  wsl --version
+  467  wsl -v
+  468  wsl -q
+  469  wsl --verbose
+  470  wsl --running
+  471  wsl2
+  472  powershell
+  473  wsl man bc
+  474  tr a-z A-z
+  475  help
+  476  dir
+  477  git init
+  478  vi index.html
+  479  git add index.html
+  480  git commit -m "first file"
+  481  git status
+  482  git logs
+  483  git log
+  484  git config --global user.name neerajnanhewar
+  485  git config --global user.email neeraj.rehan47@gmail.com
+  486  git show details
+  487  git show
+  488  git remote add origin https://github.com/neerajnanhewar/test-1
+  489  git push origin master
+  490  git push origin master
+  491  git remote add origin https://github.com/neerajnanhewar/test.git
+  492  git init
+  493  git rm
+  494  echo "# test" >> README.md
+  495  git init
+  496  git add README.md
+  497  git commit -m "read file"
+  498  git remate add origin https://github.com/neerajnanhewar/test.git
+  499  git remote add origin https://github.com/neerajnanhewar/test.git
+  500  git push -u origin master
+  501  vi index.html
+  502  git add .
+  503  git commit -m "neeraj"
+  504  git push -u origin master
+  505  git push -u origin master
+  506  git pull origin master
+  507  ls
+  508  history
 
