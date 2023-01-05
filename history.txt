@@ -1,0 +1,82 @@
+$ history
+    1  cd
+    2  cd /c
+    3  ls
+    4  cd git/
+    5  cd program/
+    6  cd Program Files/
+    7  cd
+    8  cd /c
+    9  cd git/c
+   10  ls
+   11  cd git/
+   12  ls
+   13  git config --global user.name "akashmoundekar"
+   14  git config --global user.email akash.moundekar@aitglobalinc.com
+   15  git clone https://github.com/akashmoundekar/APSC.git
+   16  ls
+   17  cd APSC/
+   18  cd APSC/
+   19  ls
+   20  ls
+   21  ls
+   22  ls
+   23  git add Akash.txt
+   24  git status
+   25  git commit -m "first commit" Akash.txt
+   26  history
+   27  git status
+   28  ls
+   29  clone https://github.com/akashmoundekar/APSC.git
+   30  git clone https://github.com/akashmoundekar/APSC.git
+   31  push
+   32  git push
+   33  git pull
+   34  git checkout -b "AkashM"
+   35  git push
+   36   git push --set-upstream origin AkashM
+   37  git status
+   38  git add APSC
+   39  git status
+   40  git status
+   41  ls
+   42  git switch AkashM
+   43  git add Akash.txt
+   44  git push
+   45  vi index.html
+   46  ls -ltr
+   47  git init
+   48  git status
+   49  git add index.html
+   50  git status
+   51  git commit -m "This is first file"
+   52  git remote add origin https://github.com/Akashmoundek/Test1.git
+   53  git push -u origin master
+   54  git push -u origin master
+   55  vi index.html
+   56  git status
+   57  git add index.html
+   58  git status
+   59  git commit -m "Thank u added"
+   60  git push -u origin master
+   61  vi index.html
+   62  git add index.html
+   63  git status
+   64  git commit -m "welcome updated"
+   65  git puch -u origin master
+   66  git push -u origin master
+   67  vi index.html
+   68  git add index.html
+   69  git commit -m "good morning added"
+   70  git push -u origin master
+   71  git pull origin master
+   72  git push -u origin master
+   73  vi index.html
+   74  git add index.html
+   75  git commit -m "good morning"
+   76  git push -u origin master
+   77  git status
+   78  git log
+   79  git log --oneline
+   80  history
+
